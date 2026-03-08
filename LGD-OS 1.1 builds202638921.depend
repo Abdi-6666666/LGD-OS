@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1772958867 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\dir_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
+1772957891 d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\declarations.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<direct.h>
+	<io.h>
+	<ctype.h>
+	<windows.h>
+
+1772856923 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\fs_utils.c
+	"declarations.h"
+	<io.h>
+	<time.h>
+
+1772957596 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\main.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1772948230 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\path_utils.c
+	"declarations.h"
+
+1772960431 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\shell.c
+	"declarations.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1772956334 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\sys_commands.c
+	"declarations.h"
+	<string.h>
+
+1772960628 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\text_commands.c
+	"declarations.h"
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1772938608 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\file_commands.c
+	"declarations.h"
+	<string.h>
+	<time.h>
+	<errno.h>
+	<windows.h>
+
+1772960245 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\cmd_game.c
+	"declarations.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<io.h>
+
+1772956813 source:d:\c\lgd-os by sse_107\lgd-os 1.1 builds202638921\tree_commands.c
+	"declarations.h"
+	<string.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
