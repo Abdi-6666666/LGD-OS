@@ -1,2 +1,3 @@
 # LGD-OS
-这是一个在windows上面的liunx风dos
+更新内容：game,more,free命令
+Update content: game, more, free commands
